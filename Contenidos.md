@@ -239,23 +239,27 @@ sistemas ERP-CRM.
 
 ## Proceso de Evaluación/Calificación del Módulo
 
-* Exisitirán una serie de ejercicios, prácticas, etc. que serán recomendables realizar pero no obligatorios para calificación. Dichos trabajos serán revsisados por el docente mediante un APTO o NO APTO para que el alumno pueda ir verificando su proceso de enseñanza aprendizaje a lo largo del curso.
-
-* Se realizarán **laboratorios prácticos** con una calificación de 0 a 10 y con un porcentaje sobre la nota trimestral aún por determinar. Dichos labs serán realizados de manera presencial y telemática simultáneamente con las medidas pertinentes para verificación de las pruebas. 
-
-* Al final del trimestre se raelizará una prueba práctica escrita/computador sobre los contenidos vistos durante el trimestre con porcentaje a determinar.
-
-* Si la suma de ambas ponderaciones es 5 ó más el trimestre estará superado en caso contrario será no superado y se deberá presentar a la prueba **Ordinaria de Marzo**.
-
-* La prueba Ordinaria de Marzo está compuesta de dos partes divididas en trimestres. Esa prueba para se superada deben de calificar un 5 en cada parte. 
-
-* En caso de no superar la Prueba Ordinaria se realizará la recuperación de la/s parte/s pendiente/s en el Extraordinario de Junio.
+Evaluación del aprendizaje a lo largo del curso
+Se evaluará el grado de aprendizaje del alumnado teniendo en cuenta:
+     Pruebas individuales escritas y/o prácticas con preguntas y/o ejercicios.
+     Pruebas individuales de instalación, configuración, etc.
+     Pruebas prácticas documentadas (individuales y/o en grupo) para la resolución de supuestos
+    propuestos que el alumnado deberá entregar dentro del plazo establecido.
+     Pruebas adicionales trimestrales de carácter obligatorio (individuales o en grupos) consistentes en la
+    entrega, presentación y exposición en clase de trabajos de investigación propuestos o aprobados
+    previamente por el profesor.
+     Exposición de trabajos voluntarios.
+     La asistencia a clase, la actitud e iniciativa, interés, y el esfuerzo personal
+     Exámenes finales, en convocatoria ordinaria y/o extraordinaria.
+Las pruebas de evaluación a realizar:
+     Todas las pruebas y/o prácticas indicadas anteriormente.
+     Examen de evaluación final del trimestre.
+     Examen final en convocatoria ordinaria.
+     Examen final en convocatoria extraordinaria
 
   
 
 ## Bibliografía
 
-* **Implantación de Aplicaciones Web**, Jorge Sánchez Asenjo. Garceta
-* **Materiales Curriculares Libres**. (http://mclibre.org), Bartolomé Sintes Marco. CC
-* **Programming PHP. Creating Dynamic Web Pages. ** Kevin Tatroe, Peter MacIntyre. O'Reilly Media.
-* **Curso de Aplicaciones Web. Apuntes**. Juán Pavón Mestras. Facultad Informática. UCM. CC.
+* **Bases de Datos**, Ed Garceta
+
