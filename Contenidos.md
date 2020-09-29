@@ -49,7 +49,6 @@ sistemas ERP-CRM.
 
   
 
-```
 * Tema 1: Almacenamiento de la información:
    Ficheros (planos, indexados y acceso directo, de
   marcas, entre otros).
@@ -60,7 +59,28 @@ sistemas ERP-CRM.
    SGBD comerciales vs. SGBD libres.
    Bases de datos centralizadas y bases de datos
   distribuidas. 
-```
+
+* Tema 2: Bases de datos relacionales:
+   Modelo de datos.
+   Terminología del modelo relacional. Relaciones,
+  atributos, tuplas.
+   Tipos de datos.
+   Claves primarias.
+   Índices. Características. Tipos.
+   El valor NULL.
+   Claves ajenas.
+   Vistas.
+   Gestión de seguridad:
+  o Usuarios.
+  o Roles.
+  o Privilegios.
+  o Límites en el uso del SGBD (perfiles).
+   Lenguaje de definición de datos (DDL Data Definition
+  Language).
+   Lenguaje de manipulación de datos (DML Data
+  Manipulatio Language).
+   Lenguaje de control de datos (DCL Data Control
+  Language).
 
 ### Metodología
 
