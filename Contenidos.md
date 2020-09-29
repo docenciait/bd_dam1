@@ -50,16 +50,16 @@ sistemas ERP-CRM.
   
 
 ```
-Almacenamiento de la información:
- Ficheros (planos, indexados y acceso directo, de
-marcas, entre otros).
- Bases de datos (BD). Conceptos, usos y tipos según el
-modelo de datos, la ubicación de la información.
- Sistemas gestores de bases de datos (SGBD):
-funciones, componentes y tipos.
- SGBD comerciales vs. SGBD libres.
- Bases de datos centralizadas y bases de datos
-distribuidas. 
+* Tema 1: Almacenamiento de la información:
+   Ficheros (planos, indexados y acceso directo, de
+  marcas, entre otros).
+   Bases de datos (BD). Conceptos, usos y tipos según el
+  modelo de datos, la ubicación de la información.
+   Sistemas gestores de bases de datos (SGBD):
+  funciones, componentes y tipos.
+   SGBD comerciales vs. SGBD libres.
+   Bases de datos centralizadas y bases de datos
+  distribuidas. 
 ```
 
 ### Metodología
