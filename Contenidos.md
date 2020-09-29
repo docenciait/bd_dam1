@@ -6,9 +6,9 @@
 
 ## Secuenciación
 
-* 100 horas
+* 205 HORAS
 
-* 5 sesiones a la semana
+* 6 sesiones a la semana
 
 ## Objetivos del Módulo
 
@@ -16,16 +16,16 @@ La formación del módulo, en el ciclo formativo DAM, contribuye a alcanzar los 
 del ciclo formativo y las competencias del título, recogidos en el Real Decreto 450/2010, de 16 de abril.
 Objetivos generales
 
-c) Interpretar el diseño lógico de bases de datos, analizando y cumpliendo las especificaciones relativas a su
-aplicación, para gestionar bases de datos.
+  c) Interpretar el diseño lógico de bases de datos, analizando y cumpliendo las especificaciones relativas a su
+  aplicación, para gestionar bases de datos.
 
-e) Seleccionar y emplear lenguajes, herramientas y librerías, interpretando las especificaciones para
-desarrollar aplicaciones multiplataforma con acceso a bases de datos.
+  e) Seleccionar y emplear lenguajes, herramientas y librerías, interpretando las especificaciones para
+  desarrollar aplicaciones multiplataforma con acceso a bases de datos.
 
-f) Gestionar la información almacenada, planificando e implementando sistemas de formularios e informes
-para desarrollar aplicaciones de gestión.
+  f) Gestionar la información almacenada, planificando e implementando sistemas de formularios e informes
+  para desarrollar aplicaciones de gestión.
 
-p) Realizar consultas, analizando y evaluando su alcance, para gestionar la información almacenada en
+  p) Realizar consultas, analizando y evaluando su alcance, para gestionar la información almacenada en
 sistemas ERP-CRM.
 
 ## Material a utilizar
@@ -34,7 +34,6 @@ sistemas ERP-CRM.
 
 * MV Ubuntu 18.04 LTS con LXDE
 * Windows 10/Server 
-
 
 
 ## Gestión de Versiones, Documental y de Aulas
@@ -47,40 +46,184 @@ sistemas ERP-CRM.
 
 * Google Apps / Docs
 
-  
+```bash
 
-* Tema 1: Almacenamiento de la información:
-   Ficheros (planos, indexados y acceso directo, de
-  marcas, entre otros).
-   Bases de datos (BD). Conceptos, usos y tipos según el
-  modelo de datos, la ubicación de la información.
-   Sistemas gestores de bases de datos (SGBD):
-  funciones, componentes y tipos.
-   SGBD comerciales vs. SGBD libres.
-   Bases de datos centralizadas y bases de datos
-  distribuidas. 
+1. Los sistemas de almacenamiento de la información
 
-* Tema 2: Bases de datos relacionales:
-   Modelo de datos.
-   Terminología del modelo relacional. Relaciones,
-  atributos, tuplas.
-   Tipos de datos.
-   Claves primarias.
-   Índices. Características. Tipos.
-   El valor NULL.
-   Claves ajenas.
-   Vistas.
-   Gestión de seguridad:
-  o Usuarios.
-  o Roles.
-  o Privilegios.
-  o Límites en el uso del SGBD (perfiles).
-   Lenguaje de definición de datos (DDL Data Definition
-  Language).
-   Lenguaje de manipulación de datos (DML Data
-  Manipulatio Language).
-   Lenguaje de control de datos (DCL Data Control
-  Language).
+  1.1. Ficheros                
+
+  1.2. Bases de Datos              
+
+  1.3. Los Sistemas Gestores de Base de Datos       
+
+         
+ 
+
+2. Diseño lógico relacional
+
+  2.1. Representación del problema          
+
+  2.2. El modelo de datos             
+
+  2.3. Diagramas E/R              
+
+  2.4. El modelo E/R ampliado           
+
+  2.5. Construcción de un diagrama E/R        
+
+  2.6. El modelo relacional            
+
+  2.7. Transformación de un diagrama E/R al modelo relacional  
+
+  2.8. Normalización              
+    
+
+
+3. Diseño físico relacional
+
+    3.1. Notación para la sintaxis           
+
+    3.2. Herramientas gráficas proporcionadas por los SGBD    
+
+    3.3. Intérpretes de comandos de los SGBD        
+
+    3.4. El lenguaje de definición de datos         
+
+    3.5. Creación de bases de datos           
+
+    3.6. Modificación de una base de datos         
+
+    3.7. Borrado de bases de datos           
+
+    3.8. Creación de tablas             
+
+    3.9. Modificación de tablas            
+
+    3.10. Borrado de tablas             
+
+    3.11. Renombrado de tablas            
+     
+ 
+
+4. Realización de Consultas
+
+    4.1. El lenguaje DML             
+
+    4.2. La sentencia SELECT            
+
+    4.3. Consultas básicas             
+
+    4.4. Filtros                
+
+    4.5. Ordenación               
+
+    4.6. Consultas de resumen            
+
+    4.7. Subconsultas              
+
+    4.8. Consultas multitabla            
+
+    4.8.1. Consultas multitabla SQL 1        
+
+    4.8.2. Consultas multitabla SQL 2        
+
+    4.9. Consultas reflexivas             
+
+    4.10. Consultas con tablas derivadas                  
+
+ 
+
+5. Tratamiento de los datos
+
+    5.1. Herramientas gráficas para la edición de los datos    
+
+    5.2. La sentencia INSERT            
+
+    5.3. La sentencia INSERT extendida         
+
+    5.4. INSERT y SELECT            
+
+    5.5. La sentencia UPDATE            
+
+    5.6. La sentencia DELETE            
+
+    5.7. La sentencias UPDATE y DELETE con subconsultas   
+
+    5.8. Borrado y modificación de registros con relaciones    
+
+    5.9. Transacciones              
+
+    5.10. Acceso concurrente a los datos          
+
+    5.11. El acceso a la información           
+
+    5.12. Las vistas               
+
+    5.13. Los usuarios               
+
+    5.14. Los privilegios              
+ 
+
+6. Programación de bases de datos
+
+    6.1. ¿Por qué PL/SQL?   
+
+    6.2. Otros lenguajes de programación   
+
+    6.3. Bloques de Código Anóonimos en PL/SQL   
+
+    6.4. Tipos de datos en PL/SQL           
+
+    6.5. Operadores y expresiones           
+
+    6.6. Entrada y salida para la depuración           
+
+    6.7. Estructuras de Control           
+
+    6.8. Estructuras funcionales: procedimientos y funciones          
+
+    6.9. Sentencias SQL en PL/SQL            
+
+    6.10. Acceso a la Base de Datos. Cursores        
+
+    6.11. Excepciones en PL/SQL                
+
+    6.12. Disparadores o Triggers                
+
+ 
+
+7. BBDD distribuidas
+
+    7.1. BBDD y SGBD distribuidos          
+
+    7.2. Técnicas de fragmentación           
+
+    7.3. Consultas distribuidas            
+
+    7.4. Transacciones distribuidas           
+
+    7.5. Optimización de consultas sobre bases de datos distribuidas 
+
+ 
+
+8. BBDD Objeto-Relacionales
+
+    8.1. Las Bases de datos objetos-relacionales       
+
+    8.2. Los atributos multivaluados          
+
+    8.3. Los identificadores de objeto          
+
+    8.4. Los métodos               
+
+    8.5. La herencia               
+
+    8.6. Operaciones DML             
+
+    8.7. Las referencias              
+
+         
+```
 
 ### Metodología
 
@@ -90,6 +233,7 @@ sistemas ERP-CRM.
 * Se fomentará el trabajo individual y el trabajo colectivo en pequeños grupos de trabajo
 * Se van a utlizar herramientas como Meet, github, etc. que permitirán el trabajo colaborativo entre docencia/alumno , alumno/alumno.
 * Aunque un Subgrupo vaya a clase también habrá trabajo impuesto al otro Subgrupo 
+
 
 
 
