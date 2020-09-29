@@ -239,23 +239,24 @@ sistemas ERP-CRM.
 
 ## Proceso de Evaluación/Calificación del Módulo
 
-Evaluación del aprendizaje a lo largo del curso
-Se evaluará el grado de aprendizaje del alumnado teniendo en cuenta:
-     Pruebas individuales escritas y/o prácticas con preguntas y/o ejercicios.
-     Pruebas individuales de instalación, configuración, etc.
-     Pruebas prácticas documentadas (individuales y/o en grupo) para la resolución de supuestos
+
+* Se evaluará el grado de aprendizaje del alumnado teniendo en cuenta:
+    - Pruebas individuales escritas y/o prácticas con preguntas y/o ejercicios.
+    - Pruebas individuales de instalación, configuración, etc.
+    - Pruebas prácticas documentadas (individuales y/o en grupo) para la resolución de supuestos
     propuestos que el alumnado deberá entregar dentro del plazo establecido.
-     Pruebas adicionales trimestrales de carácter obligatorio (individuales o en grupos) consistentes en la
+    - Pruebas adicionales trimestrales de carácter obligatorio (individuales o en grupos) consistentes en la
     entrega, presentación y exposición en clase de trabajos de investigación propuestos o aprobados
     previamente por el profesor.
-     Exposición de trabajos voluntarios.
-     La asistencia a clase, la actitud e iniciativa, interés, y el esfuerzo personal
-     Exámenes finales, en convocatoria ordinaria y/o extraordinaria.
-Las pruebas de evaluación a realizar:
-     Todas las pruebas y/o prácticas indicadas anteriormente.
-     Examen de evaluación final del trimestre.
-     Examen final en convocatoria ordinaria.
-     Examen final en convocatoria extraordinaria
+    - Exposición de trabajos voluntarios.
+    - La asistencia a clase, la actitud e iniciativa, interés, y el esfuerzo personal
+    - Exámenes finales, en convocatoria ordinaria y/o extraordinaria.
+
+* Las pruebas de evaluación a realizar:
+    - Todas las pruebas y/o prácticas indicadas anteriormente.
+    - Examen de evaluación final del trimestre.
+    - Examen final en convocatoria ordinaria.
+    - Examen final en convocatoria extraordinaria
 
   
 
